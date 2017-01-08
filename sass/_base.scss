@@ -1,0 +1,142 @@
+
+.fotos{
+	background-repeat:$no_rep;
+	max-width: $ancho;
+	background-position:center;
+	height: $altura;
+}
+
+
+.foto1{
+
+	background-image: url(../img/parallax-1.jpg);
+	
+}
+
+.logo{
+	margin-left:40px;
+}
+
+.mouse{
+	
+	height:35px;
+	width:35px;
+}
+
+.fotos2{
+
+	background-image: url(../img/parallax-3.jpg);
+}
+
+.parr{
+ 
+  color:white;
+  margin-top:60px;
+  margin-left:30px;
+  font-size:20px;
+
+}
+
+.title{
+  color:pink;
+}
+
+.titulo{
+
+	color:$color-titulos;
+	font-weight:$letra;
+	font-size:100px;
+	line-height:0.6;
+	//margin-top:60px;
+	//margin-left:50px;
+}
+.centrado{
+	margin-top:60px;
+	margin-left: 40px;
+}
+
+.fotos3{
+
+	background-image: url(../img/parallax-3.jpg);
+	
+}
+
+.foto-cafe{
+	margin-top:10px;
+	margin-left:-5px;
+}
+
+.foto-pq{
+	margin-top:10px;
+	
+}
+
+
+.fotos4{
+
+	background-image: url(../img/parallax-2.jpg);
+	
+}
+
+.preguntas{
+	color:$color-titulos;
+	text-align:center;
+	margin-top:20%;
+	font-size:$tam-letra;
+	font-weight:$letra;
+	line-height:0.6;
+
+}
+
+.sobre{
+	color:$color-titulos;
+	text-align:center;
+	margin-top:5%;
+	font-size:$tam-letra;
+	font-weight:$letra;
+	
+}
+
+.amarillo{
+	background-color:$color-fondo1;
+	max-width:$ancho;
+}
+
+.p1{
+	margin-left:30px;
+	padding-left:10px;
+	margin-top:10%;
+}
+
+
+
+.verde{
+	background-color:$color-fondo2;
+	max-width:$ancho;
+}
+
+.rosado{
+	background-color:$color-fondo3;
+	max-width:$ancho;
+}
+
+.fotos5{
+
+	background-image: url(../img/parallax-4.jpg);
+}
+
+.flecha{
+	font-weight:$letra;
+	color: white;
+	font-size:70%;
+}
+
+.p12{
+	text-align:justify;
+	margin-left:20%;
+	margin-top:10%;
+}
+
+a:focus{
+	background-color:gold;
+}
